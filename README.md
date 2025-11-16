@@ -42,14 +42,7 @@ Target-SQL-Case-Study-FULL/
 4. Results images in `results/` are illustrative; replace with actual exported charts if available.
 
 ## Skills Demonstrated
-- SQL (window functions, aggregation, joins, date functions)
+- SQL (window functions, aggregation, joins, date functions, CTE)
 - BigQuery (standard SQL)
 - EDA and data interpretation
 - Reporting & documentation
-
----
-
-If you'd like, I can:
-- Replace illustrative charts with real charts using your BigQuery exports.
-- Create a GitHub Pages summary or README images.
-- Add a short Jupyter notebook that connects to BigQuery and reproduces the charts.
