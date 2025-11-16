@@ -35,11 +35,16 @@ Target-SQL-Case-Study-FULL/
 - **Logistics:** Freight cost and delivery delays are correlated — distant states pay more and wait longer.  
 - **Recommendation:** Improve delivery estimates for slow states; negotiate freight rates or open regional hubs.
 
+## Dataset Notice
+The dataset used in this case study is not included in the repository due to licensing and size constraints.  
+All SQL queries reference BigQuery tables (see `sql/` folder).  
+Replace dataset paths with your own if running the queries.
+
 ## How to Reproduce
 1. Open Google BigQuery.
-2. Point to the dataset `scaler-project-465604.Target` or import equivalent tables.
+2. Import equivalent tables.
 3. Run the SQL files in the `sql/` folder in order (01 → 06).
-4. Results images in `results/` are illustrative; replace with actual exported charts if available.
+4. Results images in `results/` are illustrative; replace with actual exported charts.
 
 ## Skills Demonstrated
 - SQL (window functions, aggregation, joins, date functions, CTE)
