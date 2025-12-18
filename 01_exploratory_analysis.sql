@@ -1,7 +1,7 @@
 -- 01_exploratory_analysis.sql
 -- Author: Nikhil Mehalawat
 -- Purpose: Basic EDA - data types, date ranges, count of cities & states
--- Dataset: scaler-project-465604.Target.{orders, customers, payments, orders_items}
+-- {orders, customers, payments, orders_items}
 -- Run in BigQuery
 
 -- 1. Data types (customers table) - BigQuery: use INFORMATION_SCHEMA or inspect manually
